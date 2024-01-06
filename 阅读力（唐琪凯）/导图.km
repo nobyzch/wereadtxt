@@ -1,0 +1,340 @@
+{
+    "root": {
+        "data": {
+            "id": "cy5mkipyq0w0",
+            "created": 1704341305305,
+            "text": "阅读力"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cy5mktmbdy80",
+                    "created": 1704341329030,
+                    "text": "读书有用吗",
+                    "layout_mind_offset": {
+                        "x": -421.25000760580247,
+                        "y": -27.000001430511645
+                    },
+                    "priority": 1
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cy5n4z70tm80",
+                            "created": 1704342908449,
+                            "text": "书犹药也，善读之可以医愚。",
+                            "layout_left_offset": {
+                                "x": -370.00000183781094,
+                                "y": -18.750000093132257
+                            }
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cy5mkyr7w3s0",
+                    "created": 1704341340210,
+                    "text": "要读什么书",
+                    "layout_mind_offset": {
+                        "x": -140.2500023208562,
+                        "y": -129.7500028200453
+                    },
+                    "priority": 2
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cy5n5ya0ilc0",
+                            "created": 1704342984817,
+                            "text": "科学/文学/实用"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cy5n6ourokw0",
+                            "created": 1704343042668,
+                            "text": "尼采说：一个人知道自己为什么而活，他就能够忍受任何一种生活。"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cy5ml20xwc80",
+                    "created": 1704341347328,
+                    "text": "不爱读书",
+                    "layout_mind_offset": {
+                        "x": -31.000000615914473,
+                        "y": -114.00000226497664
+                    },
+                    "priority": 3
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cy5mpc2l2iw0",
+                            "created": 1704341682652,
+                            "text": "生理原因"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cy5mpe3uad40",
+                            "created": 1704341687081,
+                            "text": "心理原因"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cy5mlafzpds0",
+                    "created": 1704341365652,
+                    "text": "读不进去",
+                    "layout_mind_offset": {
+                        "x": -30.500000643233534,
+                        "y": -104.00000214080058
+                    },
+                    "priority": 4
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cy5mouryy6g0",
+                            "created": 1704341645005,
+                            "text": "书的问题"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cy5mox5cxgw0",
+                            "created": 1704341650168,
+                            "text": "缺乏目的性"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cy5mp1amp0w0",
+                            "created": 1704341659194,
+                            "text": "状态因素"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cy5mlcys78w0",
+                    "created": 1704341371142,
+                    "text": "读的太慢",
+                    "layout_mind_offset": {
+                        "x": -34.499993942677946,
+                        "y": -108.49999697754862
+                    },
+                    "priority": 5
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cy5mpo71ih40",
+                            "created": 1704341709043,
+                            "text": "快速阅读是个伪命题",
+                            "layout_right_offset": {
+                                "x": 6.000000119209517,
+                                "y": 2.000000039736449
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cy5mq80zqgw0",
+                            "created": 1704341752213,
+                            "text": "需要摈弃的阅读恶心",
+                            "layout_right_offset": {
+                                "x": 8.000000158945795,
+                                "y": 3.0000000596047585
+                            }
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cy5mqmijdwg0",
+                            "created": 1704341783749,
+                            "text": "提升速度的三个技巧",
+                            "layout_right_offset": {
+                                "x": 9.00000017881382,
+                                "y": 3.0000000596046448
+                            }
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cy5mr8wqgps0",
+                    "created": 1704341832496,
+                    "text": "读完就忘",
+                    "layout_mind_offset": {
+                        "x": 277.2499989333256,
+                        "y": 546.2500144106666
+                    },
+                    "priority": 6
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cy5mrm5lu0g0",
+                            "created": 1704341861331,
+                            "text": "缺乏人生联系"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cy5mroc4ig00",
+                            "created": 1704341866079,
+                            "text": "缺乏刻意回想"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cy5mrx7i90w0",
+                            "created": 1704341885390,
+                            "text": "缺乏阅读输出"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cy5mlg3losw0",
+                    "created": 1704341377964,
+                    "text": "读了不用",
+                    "layout_mind_offset": {
+                        "x": -7.75000389789551,
+                        "y": 284.0000078777483
+                    },
+                    "priority": 7
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cy5mtey76hc0",
+                            "created": 1704342002374,
+                            "text": "读书是学习的途径，不是最终目的"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cy5mtrt62o80",
+                            "created": 1704342030368,
+                            "text": "学而不练，十年不变"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cy5mub3aznc0",
+                            "created": 1704342072340,
+                            "text": "读书的永恒追求是身心合一"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cy5mlic3rbc0",
+                    "created": 1704341382832,
+                    "text": "没时间读",
+                    "layout_mind_offset": {
+                        "x": -118.25000516201095,
+                        "y": -53.99999928474455
+                    },
+                    "priority": 8
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cy5muklcu000",
+                            "created": 1704342093022,
+                            "text": "重视阅读"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cy5mum37y5k0",
+                            "created": 1704342096279,
+                            "text": "定时阅读"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cy5muniv52g0",
+                            "created": 1704342099402,
+                            "text": "碎片化时间管理"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cy5mx7ayutc0",
+                    "created": 1704342299188,
+                    "text": "ITO阅读法",
+                    "layout_mind_offset": {
+                        "x": -120.00000536441866,
+                        "y": -388.2500064286106
+                    },
+                    "priority": 9
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cy5mxylsafk0",
+                            "created": 1704342358615,
+                            "text": "阅读输入"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cy5my0gjf6o0",
+                            "created": 1704342362652,
+                            "text": "深化思考"
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cy5my3uks2w0",
+                            "created": 1704342370031,
+                            "text": "内容输出"
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
